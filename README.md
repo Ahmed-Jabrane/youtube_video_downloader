@@ -25,6 +25,6 @@ Using virtualenv allows you to avoid installing Python packages globally which c
   streamlit run app.py
 ```
 
-The video/audio downloaded will be stored in the **results** folder
+The video/audio downloaded will be stored in the same folder
 
 
