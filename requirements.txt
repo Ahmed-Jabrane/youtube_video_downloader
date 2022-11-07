@@ -1,4 +1,4 @@
 streamlit
 pytube
-streamlit_player
+streamlit-player
 moviepy
