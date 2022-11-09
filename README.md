@@ -10,7 +10,7 @@ This is open source project in Python using [Streamlit](https://streamlit.io/) t
 We recommended to install it and all its dependencies, inside a virtual environnement and through the Python Package Index.
 
 Using virtualenv allows you to avoid installing Python packages globally which could break system tools or other projects. You can install virtualenv using pip.
-### Creating a virtual environment¶ 
+### Creating a virtual environment
 ```bash
   virtualenv env
   source env/bin/activate
